@@ -1,5 +1,5 @@
 # django-polls-app
-Official Python / Django documentation tutorial that taught how to work with the folling features.
+Official Python / Django documentation tutorial that taught how to work with the following features.
 
 <ul>
 <li> Models
